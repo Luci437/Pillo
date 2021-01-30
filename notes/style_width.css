@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (min-width: 900px) and (max-width: 1300px) {
+
+}
+#detail-box {
+position: absolute;	
+margin-top: 150px;
+margin-left: 213px;
+}
+#db1 {
+position: absolute;
+margin-left: ;
+margin-top: ;
+background-color: #F3F4FC;
+width: 100px;
+height: 2px;
+-webkit-animation: db1 6s;	
+}
+@-webkit-keyframes db1 {
+0% {width: 0px;}
+70% {width: 0px;}
+100% {width: 100px;}	
+}
+#db2 {
+position: absolute;
+margin-left: 100px;
+margin-top: 13px;
+background-color: #F3F4FC;
+width: 2px;
+height: 2px;	
+-webkit-transform: scaleY(150);
+-webkit-animation: db2 8s;
+}
+@-webkit-keyframes db2 {
+0% {-webkit-transform: scaleY(0);}
+70% {-webkit-transform: scaleY(0);}
+100% {-webkit-transform: scaleY(150);}	
+}
+#db3 {
+position: absolute;
+margin-left: 100px;
+margin-top: 164px;
+background-color: #F3F4FC;
+width: 750px;
+height: 2px;	
+-webkit-animation: db3 11s;	
+}
+@-webkit-keyframes db3 {
+0% {width: 0px;}
+70% {width: 0px;}
+100% {width: 750px;}	
+}
+#db4 {
+position: absolute;
+margin-left: 848px;
+margin-top: 13px;
+background-color: #F3F4FC;
+width: 2px;
+height: 2px;	
+-webkit-transform: scaleY(150);
+-webkit-animation: db4 13s;
+}
+@-webkit-keyframes db4 {
+0% {-webkit-transform: scaleY(0);}
+80% {-webkit-transform: scaleY(0);}
+100% {-webkit-transform: scaleY(150);}	
+}
+#db5 {
+position: absolute;
+margin-left: 100px;
+margin-top: -137px;
+background-color: #F3F4FC;
+width: 750px;
+height: 0.5px;	
+-webkit-animation: db3 11s;	
+}
+@-webkit-keyframes db3 {
+0% {width: 0px;}
+70% {width: 0px;}
+100% {width: 750px;}	
+}
+#slides {
+position: absolute;	
+}
+#sn1 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn1 h1 {
+position: absolute;
+color: #165B7C;
+margin-left: 10px;
+margin-top: 70px;
+font-size: 20px;	
+}
+#sn2 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn2 h1 {
+position: absolute;
+color: #165B7C;
+margin: 10px;
+font-size: 20px;	
+}
+#sn2 h2 {
+color: #fff;
+margin-left: 100px;	
+}
+#sn3 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn3 h1 {
+position: absolute;
+color: #165B7C;
+margin: 10px;
+font-size: 20px;	
+}
+#sn4 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn4 h1 {
+position: absolute;
+color: #165B7C;
+margin: 10px;
+font-size: 20px;	
+}
+#sn4 h2 {
+color: #fff;
+margin-left: 130px;	
+}
+#sn1 h2 {
+color: #fff;
+margin-left: 130px;	
+}
+#sn5 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn5 h1 {
+position: absolute;
+color: #165B7C;
+margin-left: 10px;
+margin-top: 50px;
+font-size: 20px;	
+}
+#sn6 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn6 h1 {
+position: absolute;
+color: #165B7C;
+margin: 10px;
+font-size: 20px;	
+}
+#sn7 {
+position: absolute;
+width: 500px;
+height: 280px;
+margin-top: 10px;
+margin-left: 150px;
+background-color: #69FF28;	
+-webkit-animation: sn1 2s forwards;
+}
+@-webkit-keyframes sn1 {
+0% {margin-top: 350px;}
+50 % {margin-top: 350px;}
+90% {margin-top: 5px;}
+100% {margin-top: 10px;}	
+}
+#sn7 h1 {
+position: absolute;
+color: #165B7C;
+margin: 120px;
+font-size: 40px;	
+}
